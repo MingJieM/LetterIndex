@@ -2,7 +2,6 @@ package org.mobiletrain.letterindex;
 
 /**
  * Java汉字转换为拼音
- * created by 王松
  */
 public class ChineseToPinyinHelper {
 	private static int[] pyvalue = new int[] { -20319, -20317, -20304, -20295,
